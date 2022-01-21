@@ -1,0 +1,4 @@
+# Hospital_Bed_management
+Hospital Bed Management Application (Healthcare and relief ) • Application’s is crafted in python and with the help of Tkinter library the User  Interface was also designed in python. • The application was a possible solution for the hospitals to accommodate the  beds in real time to the patients in need. SQLite is used as database here. The  idea was to effortlessly check availability and allocate beds to patients at the  times of need during the breakout of COVID-19. • It reflects the allocated bed with their numbers in real time.
+
+Application’s is crafted in python and with the help of Tkinter library the User Interface was also designed in python. • The application was a possible solution for the hospitals to accommodate the beds in real time to the patients in need. SQLite is used as database here
